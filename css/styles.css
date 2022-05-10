@@ -1,0 +1,153 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  margin: 0;
+  text-align: center;
+  line-height: 1.5;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  position: relative;
+  left: 27%;
+  margin-right: 3%;
+  font-size: 1.2rem;
+}
+
+h1 {
+  clear: left;
+  padding-top: 70px;
+  font-size: 2.1rem;
+}
+
+.account {
+  float: left;
+  position: relative;
+  left: 65%;
+  top: 80px;
+}
+
+.bottom-row {
+  clear: left;
+  padding-top: 75px;
+}
+
+.feature {
+  width: 90%;
+}
+
+.index-section {
+  width: 100%;
+  overflow: hidden;
+}
+
+.feature-row-wrapper {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+
+}
+
+.feature-row {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.feature-row-item {
+  width: 50%;
+}
+
+.image-wrap {
+  width: 100%;
+  max-width: 450px;
+  max-height: 450px;
+  padding: 2em;
+}
+
+.image-wrap img {
+  width: 100%;
+  max-width: 450px;
+}
+
+.image {
+  float: left;
+}
+
+.details {
+  float: right;
+  text-align: left;
+}
+
+.staff-name h1{
+  clear: none;
+  padding-top: 0;
+
+}
+
+.intro {
+  width: 75%;
+  margin: auto;
+  margin-bottom: 150px;
+  text-align: left;
+}
+
+.top-banner {
+  background-color: #b9dfe0;
+  text-align: center;
+  padding: 7px 0;
+}
+
+.top-banner p {
+  margin: 0;
+  font-size: 0.85rem;
+}
+
+.top-row img {
+  width: 24px;
+}
+
+.logo {
+  float: left;
+  position: relative;
+  top: 50px;
+  left: 40%;
+}
+
+.logo img {
+  width: 250px;
+}
+
+.search {
+  float: left;
+  position: relative;
+  left: 10%;
+  top: 80px;
+  width: 24px;
+
+}
+
+.shopping-bag {
+  float: left;
+  position: relative;
+  left: 67%;
+  top:80px;
+}
+
+.staff img {
+  width: 30%;
+  float: left;
+  margin: 0 70px 0 50px;
+}
+
+.staff p, h2 {
+  text-align: left;
+}
+
+.staff p:nth-of-type(2n) {
+  width: 90%;
+  line-height: 1.5;
+}
